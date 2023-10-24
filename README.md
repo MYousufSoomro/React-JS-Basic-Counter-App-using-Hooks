@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# YouTube Tutorial
+
+[![Watch the video](https://img.youtube.com/vi/KiznCw29u20/hqdefault.jpg)](https://www.youtube.com/embed/KiznCw29u20)
+
+[<img src="https://img.youtube.com/vi/KiznCw29u20/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/KiznCw29u20)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
